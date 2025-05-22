@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/code-moments/",
   title: "前端拾光",
   description: "个人前端知识博客",
   themeConfig: {
