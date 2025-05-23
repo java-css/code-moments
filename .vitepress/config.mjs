@@ -23,23 +23,23 @@ export default defineConfig({
       {
         text: "笔试",
         items: [
-          { text: "写代码", link: "/docs/code-exam/write" },
-          { text: "读代码", link: "/docs/code-exam/read" },
+          { text: "写代码", link: "/src/code-exam/write" },
+          { text: "读代码", link: "/src/code-exam/read" },
         ],
       },
       {
         text: "基础篇",
         items: [
-          { text: "HTML&CSS", link: "/docs/basic-exam/html-css" },
-          { text: "JS", link: "/docs/basic-exam/js" },
-          { text: "HTTP网络", link: "/docs/basic-exam/net" },
+          { text: "HTML&CSS", link: "/src/basic-exam/html-css" },
+          { text: "JS", link: "/src/basic-exam/js" },
+          { text: "HTTP网络", link: "/src/basic-exam/net" },
         ],
       },
       {
         text: "框架篇",
         items: [
-          { text: "Vue", link: "/docs/architecture/vue" },
-          { text: "React", link: "/docs/architecture/react" },
+          { text: "Vue", link: "/src/architecture/vue" },
+          { text: "React", link: "/src/architecture/react" },
         ],
       },
     ],

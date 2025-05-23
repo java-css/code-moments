@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 学习目录
-      link: /docs/code-exam/write
+      link: /src/code-exam/write
     - theme: alt
       text: 工作积累
-      link: /docs/working/index
+      link: /src/working/index
 
 features:
   - title: ❤️
