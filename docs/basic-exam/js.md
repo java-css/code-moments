@@ -597,8 +597,6 @@ for (let value of arr) {
 
 ::: details
 
-![proto](../imgs/proto.jpg)
-
 **1. 原型（Prototype）**
 
 - 每个 **函数**（构造函数）都有一个 `prototype` 属性，指向其 **原型对象**。
@@ -1182,8 +1180,6 @@ console.log('end')
 参考答案
 
 ::: details
-
-![eventloop](../imgs/js-eventloop.png)
 
 Event Loop（事件循环）是 JavaScript 处理 **异步操作** 的核心机制。它允许 JavaScript 以 **非阻塞** 的方式执行代码，即使遇到 I/O 操作（如网络请求、定时器），也不会影响主线程继续执行其他任务。
 
